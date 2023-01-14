@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "typescript": "tsc --watch"
+    "tsc": "tsc --watch"
   },
   "keywords": [],
   "author": "",
